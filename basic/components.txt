@@ -1,0 +1,6 @@
+The components in node?
+=> Node has mainly three type of module
+1st => Import required module ( we are going to use require directive)
+2nd => Create server (A serrver uses to listen to client side)
+3rd => Read request and return responce
+
